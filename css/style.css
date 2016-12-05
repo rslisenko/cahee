@@ -1350,6 +1350,15 @@ select {
   content: "";
 }
 
+.ba-contact-form__send-btn {
+  color: #FFF;
+  background: rgba(0, 196, 196, 0.7);
+}
+
+.ba-contact-form__send-btn:hover {
+  background: #00c4c4;
+}
+
 .ba-contact-info {
   padding-left: 95px !important;
 }

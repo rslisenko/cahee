@@ -439,6 +439,14 @@ textarea {
 				content: "";
 			}
 		}
+		&__send-btn {
+			color: #FFF;
+			background: rgba(0, 196, 196, 0.7);
+			&:hover {
+				background: rgba(0, 196, 196, 1);
+			}
+		}
+
 	}
 	&-info {
 		padding-left: 95px !important;
