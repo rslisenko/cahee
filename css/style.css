@@ -1199,6 +1199,10 @@ select {
   margin-bottom: 0 !important;
 }
 
+.ba-subscribe__form-email:focus {
+  border: 1px solid #5585a2;
+}
+
 .ba-subscribe__form .ba-button {
   background: #96b92c;
   vertical-align: middle;
