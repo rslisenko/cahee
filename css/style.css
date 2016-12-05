@@ -1296,6 +1296,10 @@ select {
   color: #FFF;
 }
 
+.ba-blog__view-button:hover {
+  background: #f6091d;
+}
+
 .ba-contact {
   background: #FFF url("../img/contact-bg.jpg") no-repeat 50%;
   background-size: cover;
